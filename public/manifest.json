@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "assets/twitter.svg",
+      "src": "assets/twitter-blue.svg",
       "type": "image/svg",
       "sizes": "192x192"
     },
     {
-      "src": "assets/twitter.svg",
+      "src": "assets/twitter-blue.svg",
       "type": "image/svg",
       "sizes": "512x512"
     }
